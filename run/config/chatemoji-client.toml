@@ -1,0 +1,6 @@
+
+[emojiState]
+	#Emoji State that decides, do you want to emojify your chat or not.
+	#Allowed Values: NONE, EMOJI, CENSORED
+	state = "EMOJI"
+

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: chatemoji
+Specification-Vendor: Oceangrad
+Specification-Version: 1
+Implementation-Title: ChatTest
+Implementation-Version: org.oceangrad
+Implementation-Vendor: Oceangrad
+Implementation-Timestamp: 2023-08-17T21:07:02+0300
+MixinConfigs: chatemoji.mixins.json
+
